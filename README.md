@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:arslantariq0902@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:arslantariq25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ## :wave: About Me
@@ -19,7 +19,7 @@
 :zap: Currently working on AI-powered SaaS products
 :seedling: Always learning new ML / cloud architecture patterns
 :telescope: Open to collaborating on AI, fintech, and SaaS projects
-:mailbox: Reach me: arslantariq0902@gmail.com
+:mailbox: Reach me: arslantariq25@gmail.com
 
 :mortar_board: **Education:** B.S. Software Engineering, COMSATS University (2015 – 2019)
 
